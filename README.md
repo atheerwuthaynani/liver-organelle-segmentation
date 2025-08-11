@@ -32,3 +32,6 @@ This project implements automated segmentation of liver organelles in electron m
 3. Run the pipeline: `python liver_segmentation.py`
 4. Results will be generated and displayed automatically
 5. Output files can be saved to your desired location
+
+## Reference
+Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021). nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation. Nature methods, 18(2), 203-211.
