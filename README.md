@@ -22,11 +22,12 @@ This project implements automated segmentation of liver organelles in electron m
 - **Organelles:** Mitochondria, Nucleus, endoplasmic reticulum (ER), Lipid Droplets, Cell Boundaries
 
 ## Repository Contents
-- `notebooks/` - Jupyter notebooks with complete pipeline
+- `liver_segmentation.py` - Main segmentation pipeline script
 - `results/` - Performance metrics and visualizations
-- `docs/` - Additional documentation
+- `requirements.txt` - Required Python packages
 
 ## How to Use
-1. Open the Colab notebook
-2. Follow the step-by-step pipeline
-3. Results will be generated automatically
+1. Install dependencies: `pip install -r requirements.txt`
+2. Update data paths in `configure_data_paths()` function
+3. Run the pipeline: `python liver_segmentation.py`
+4. Results will be generated automatically in `/content/predictions/`
