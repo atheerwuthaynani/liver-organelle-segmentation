@@ -30,6 +30,3 @@ This project implements automated segmentation of liver organelles in electron m
 1. Open the Colab notebook
 2. Follow the step-by-step pipeline
 3. Results will be generated automatically
-## 📞 Contact
-- **Email:** [your.email@kaust.edu.sa]
-- **Institution:** KAUST
