@@ -8,8 +8,10 @@ Description:
     VAST (Volume Annotation and Segmentation Tool) with minimal training data.
     
 Reference:
-    Isensee, F. et al. nnU-Net: a self-configuring method for deep learning-based 
-    biomedical image segmentation. Nature Methods 18, 203–211 (2021).
+    Isensee, F., Jaeger, P. F., Kohl, S. A., Petersen, J., & Maier-Hein, K. H. (2021).
+    nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation.
+    Nature methods, 18(2), 203-211.
+
 """
 
 import os
