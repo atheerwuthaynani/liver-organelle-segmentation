@@ -30,4 +30,5 @@ This project implements automated segmentation of liver organelles in electron m
 1. Install dependencies: `pip install -r requirements.txt`
 2. Update data paths in `configure_data_paths()` function
 3. Run the pipeline: `python liver_segmentation.py`
-4. Results will be generated automatically in `/content/predictions/`
+4. Results will be generated and displayed automatically
+5. Output files can be saved to your desired location
